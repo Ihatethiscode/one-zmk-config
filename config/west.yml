@@ -4,6 +4,8 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: ergonautkb
       url-base: https://github.com/ergonautkb
+    - name: carrefinho                            # <--- add this
+      url-base: https://github.com/carrefinho     # <--- and this
   projects:
     - name: zmk
       remote: zmkfirmware
